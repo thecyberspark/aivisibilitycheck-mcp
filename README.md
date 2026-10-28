@@ -144,5 +144,5 @@ with your data; using the service means agreeing to our
 [info@cyberspark.uk](mailto:info@cyberspark.uk). Report a problem with this
 listing as a GitHub issue.
 
-AI Visibility Check is made by Cyber Spark IT Services LTD (company number
-14891489).
+AI Visibility Check is made by [Cyber Spark IT Services LTD](https://cyberspark.uk)
+(company number 14891489).

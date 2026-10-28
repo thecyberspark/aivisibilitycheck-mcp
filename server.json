@@ -3,8 +3,8 @@
   "name": "io.aivisibilitycheck/mcp",
   "title": "AI Visibility Check",
   "description": "Audit how AI assistants and search engines find, understand and recommend a website.",
-  "version": "1.0.0",
-  "websiteUrl": "https://aivisibilitycheck.io/claude-connector/",
+  "version": "1.0.1",
+  "websiteUrl": "https://aivisibilitycheck.io/",
   "repository": {
     "url": "https://github.com/thecyberspark/aivisibilitycheck-mcp",
     "source": "github"
