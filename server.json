@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.aivisibilitycheck/mcp",
+  "title": "AI Visibility Check",
+  "description": "Audit how AI assistants and search engines find, understand and recommend a website.",
+  "version": "1.0.0",
+  "websiteUrl": "https://aivisibilitycheck.io/claude-connector/",
+  "repository": {
+    "url": "https://github.com/thecyberspark/aivisibilitycheck-mcp",
+    "source": "github"
+  },
+  "icons": [
+    { "src": "https://aivisibilitycheck.io/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] },
+    { "src": "https://aivisibilitycheck.io/favicon.svg", "mimeType": "image/svg+xml", "sizes": ["any"] }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://aivisibilitycheck.io/mcp"
+    }
+  ]
+}
