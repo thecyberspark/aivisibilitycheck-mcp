@@ -146,3 +146,5 @@ listing as a GitHub issue.
 
 AI Visibility Check is made by [Cyber Spark IT Services LTD](https://cyberspark.uk)
 (company number 14891489).
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/thecyberspark-aivisibilitycheck-mcp-1d6qy8?v=a04875772ff304a89074bf512aebc281)](https://m8ven.ai/mcp/thecyberspark-aivisibilitycheck-mcp-1d6qy8?s=readme)
